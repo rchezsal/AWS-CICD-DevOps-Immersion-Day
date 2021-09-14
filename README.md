@@ -1,8 +1,11 @@
 # AWS-CICD-DevOps-Immersion-Day
 In this workshop you'll learn how to build a CI/CD pipeline (AWS CodePipeline) to develop a web-based application, containerize it, and deploy it on a Amazon EKS cluster. You'll use the blue/green method to deploy application and review the switchover using Application Load Balancer (ALB) Target-groups. You will spawn this infrastructure using AWS Cloud Development Kit (CDK), enabling you to reproduce the environment when needed, in relatively fewer lines of code.
 
+![Screen Shot 2021-09-13 at 11 07 40 AM](https://user-images.githubusercontent.com/90632882/133303527-b127abf4-c03e-4919-a108-27508eb91a8f.png)
+
 Getting Started
-For this workshop you’ll get access to a temporary AWS Account already pre-configured with Amazon SageMaker Studio. Follow the steps in this section to login to your AWS Account and download the workshop material.
+
+For this workshop you’ll get access to a temporary AWS Account. Follow the steps in this section to login to your AWS Account and start the workshop.
 
 1. To get started navigate to - https://dashboard.eventengine.run/login and enter the Event Hash in the field
 ![image](https://user-images.githubusercontent.com/90632882/133285722-732ff8bc-0cc0-4c04-96d8-cb5900a656db.png)
