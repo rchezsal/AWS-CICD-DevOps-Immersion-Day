@@ -38,4 +38,9 @@ Click on Accept Terms & Login
 
 ![image](https://user-images.githubusercontent.com/90632882/133287214-6b98541c-ad36-458d-9af8-5ab9aabb7bac.png)
 
+7. You now have access to the AWS Management Console and may start the lab
+
+![Screen Shot 2021-09-15 at 1 48 05 PM](https://user-images.githubusercontent.com/90632882/133491843-22c02877-89e6-4b7b-9548-2385bf8ced65.png)
+
+8. Please navigate to https://aws-ci-cd.workshop.aws/10-setup/200-create-ide.html to start the lab
 
