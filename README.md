@@ -38,5 +38,4 @@ Click on Accept Terms & Login
 
 ![image](https://user-images.githubusercontent.com/90632882/133287214-6b98541c-ad36-458d-9af8-5ab9aabb7bac.png)
 
-7. In the AWS Console search for CodeCommit in the top search bar and click on it.
-![Screen Shot 2021-09-14 at 10 31 00 AM](https://user-images.githubusercontent.com/90632882/133287771-31195dea-0406-4b11-8667-769fc8897d0e.png)
+
