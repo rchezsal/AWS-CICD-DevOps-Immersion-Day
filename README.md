@@ -1,7 +1,15 @@
 # AWS-CICD-DevOps-Immersion-Day
-In this workshop you'll learn how to build a CI/CD pipeline (AWS CodePipeline) to develop a web-based application, containerize it, and deploy it on a Amazon EKS cluster. You'll use the blue/green method to deploy application and review the switchover using Application Load Balancer (ALB) Target-groups. You will spawn this infrastructure using AWS Cloud Development Kit (CDK), enabling you to reproduce the environment when needed, in relatively fewer lines of code.
+This workshop illustrates how you can leverage the AWS developer tools to implement Continuous Integration (CI) and Continuous Deployment (CD) for your application.
 
-![Screen Shot 2021-09-13 at 11 07 40 AM](https://user-images.githubusercontent.com/90632882/133303527-b127abf4-c03e-4919-a108-27508eb91a8f.png)
+You begin by deploying a web-based development environment using the AWS Cloud9 service. This allows you to focus on CI/CD practices without needing a local development environment.
+
+You proceed to deploy a simple network in the AWS cloud using the Cloud Development Kit (CDK). The CDK application deploys EC2 instances to support two different deployment environments. The workshop provides the CDK application so that you can focus on the goal of implementing CI/CD.
+
+With the prerequisites complete, you will start building a pipeline by creating a source code repository using CodeCommit to store the simple Java web application you will use for testing. You will next learn to use CodeBuild to build the Java application source code into a deployable web archive. You will use CodeDeploy to deploy the sample application and, finally, CodePipeline to automate the release process from source code all the way to deployment. You’ll configure these services yourself, as opposed to deploying a template, so that you can maximize your learning.
+
+Your final architecture will look like the following:
+
+   ![Screen Shot 2021-09-13 at 11 07 40 AM](https://user-images.githubusercontent.com/90632882/133303527-b127abf4-c03e-4919-a108-27508eb91a8f.png)
 
 Getting Started
 
