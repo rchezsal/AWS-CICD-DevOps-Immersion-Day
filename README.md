@@ -9,7 +9,7 @@ With the prerequisites complete, you will start building a pipeline by creating 
 
 Your final architecture will look like the following:
 
-   ![Screen Shot 2021-09-13 at 11 07 40 AM](https://user-images.githubusercontent.com/90632882/133303527-b127abf4-c03e-4919-a108-27508eb91a8f.png)
+   #        ![Screen Shot 2021-09-13 at 11 07 40 AM](https://user-images.githubusercontent.com/90632882/133303527-b127abf4-c03e-4919-a108-27508eb91a8f.png)
 
 # Getting Started
 
