@@ -20,15 +20,15 @@ For this workshop you’ll get access to a temporary AWS Account. Follow the ste
 Click on Accept Terms & Login
 
 2. Click on Email One-Time OTP (Allow for up to 2 mins to receive the passcode)
-![image](https://user-images.githubusercontent.com/90632882/133286863-bea37af2-650f-42d3-b67a-42ed03313b45.png)
+![Screen Shot 2021-09-16 at 4 07 17 PM](https://user-images.githubusercontent.com/90632882/133685846-4ef6a5cf-2272-4a59-8a0e-d6e00f41d075.png)
 
-3. Provide your email address
+3. Provide your email address and click on send passcode
 
-![image](https://user-images.githubusercontent.com/90632882/133287030-e9addf59-3216-4fc2-92f2-40cda61e9b43.png)
+![Screen Shot 2021-09-16 at 4 12 32 PM](https://user-images.githubusercontent.com/90632882/133686338-bd2562a0-df9b-4eed-9aff-3d40f25a132a.png)
 
-4. Enter your OTP code
+4. Enter your OTP code and click on sign in
 
-![image](https://user-images.githubusercontent.com/90632882/133287082-c748b86a-4096-45e4-85cb-5d06dc3709a2.png)
+![Screen Shot 2021-09-16 at 4 15 29 PM](https://user-images.githubusercontent.com/90632882/133686680-0751ccb4-9f74-4222-893b-d58ef7097443.png)
 
 5. Click on AWS Console
 
